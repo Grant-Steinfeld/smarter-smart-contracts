@@ -1,4 +1,4 @@
-#How to Write, Debug, and Test Smart Contracts
+# How to Write, Debug, and Test Smart Contracts
 
 SmartContracts are the programmatic way to determine what transactions are written to the blockchain. There are many ways to write these in Hyperledger Fabric today. Understanding how to design, develop, test, and deploy SmartContracts can be difficult to do correctly.
 
